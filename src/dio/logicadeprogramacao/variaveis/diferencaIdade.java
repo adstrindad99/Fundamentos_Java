@@ -1,8 +1,8 @@
-package Exercicio4;
+package dio.logicadeprogramacao.variaveis;
 
 import java.util.Scanner;
 
-public class Exercicio4 {
+public class diferencaIdade {
 
     public static void main (String [] args) {
 

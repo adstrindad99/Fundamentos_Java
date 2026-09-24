@@ -1,8 +1,8 @@
-package Exercicio2;
+package dio.logicadeprogramacao.variaveis;
 
 import java.util.Scanner;
 
-public class Exercicio2 {
+public class ladoQuadrado {
 
         public static void main(String [] args){
             Scanner scanner = new Scanner(System.in);

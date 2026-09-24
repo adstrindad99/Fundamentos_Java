@@ -1,8 +1,8 @@
-package Exercicio1;
+package dio.logicadeprogramacao.variaveis;
 
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class declaracaoAnoIdade {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

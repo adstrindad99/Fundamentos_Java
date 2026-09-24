@@ -1,8 +1,8 @@
-package Exercicio3;
+package dio.logicadeprogramacao.variaveis;
 
 import java.util.Scanner;
 
-public class Exercicio3 {
+public class areaRetangulo {
 
     public static void main (String[] args){
 
